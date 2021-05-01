@@ -1,0 +1,6 @@
+localhost 换 ip
+mysql密码
+delete from rating;
+delete from user;
+alter table rating auto_increment=1
+alter table user auto_increment=1
